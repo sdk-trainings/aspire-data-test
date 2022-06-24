@@ -1,0 +1,25 @@
+{"customer_id": "C1", "basket": [{"product_id": "P45", "price": 853}, {"product_id": "P50", "price": 42}], "date_of_purchase": "2022-05-24 05:36:28.744006"}
+{"customer_id": "C6", "basket": [{"product_id": "P61", "price": 197}, {"product_id": "P63", "price": 1381}], "date_of_purchase": "2022-05-24 16:32:28.744006"}
+{"customer_id": "C9", "basket": [{"product_id": "P01", "price": 825}], "date_of_purchase": "2022-05-24 17:19:28.744006"}
+{"customer_id": "C15", "basket": [{"product_id": "P33", "price": 1205}], "date_of_purchase": "2022-05-23 23:39:28.744006"}
+{"customer_id": "C17", "basket": [{"product_id": "P51", "price": 940}], "date_of_purchase": "2022-05-24 07:03:28.744006"}
+{"customer_id": "C27", "basket": [{"product_id": "P34", "price": 854}, {"product_id": "P26", "price": 1836}, {"product_id": "P32", "price": 721}], "date_of_purchase": "2022-05-24 02:01:28.744006"}
+{"customer_id": "C29", "basket": [{"product_id": "P61", "price": 1531}, {"product_id": "P62", "price": 1686}, {"product_id": "P64", "price": 234}], "date_of_purchase": "2022-05-24 16:10:28.744006"}
+{"customer_id": "C31", "basket": [{"product_id": "P58", "price": 1404}, {"product_id": "P46", "price": 1287}, {"product_id": "P50", "price": 1561}], "date_of_purchase": "2022-05-24 14:08:28.744006"}
+{"customer_id": "C36", "basket": [{"product_id": "P58", "price": 181}], "date_of_purchase": "2022-05-23 23:54:28.744006"}
+{"customer_id": "C43", "basket": [{"product_id": "P62", "price": 1507}, {"product_id": "P61", "price": 934}], "date_of_purchase": "2022-05-24 17:57:28.744006"}
+{"customer_id": "C53", "basket": [{"product_id": "P56", "price": 708}, {"product_id": "P55", "price": 1889}, {"product_id": "P54", "price": 1736}], "date_of_purchase": "2022-05-24 11:29:28.744006"}
+{"customer_id": "C64", "basket": [{"product_id": "P40", "price": 1894}, {"product_id": "P39", "price": 1467}, {"product_id": "P38", "price": 1119}], "date_of_purchase": "2022-05-24 14:58:28.744006"}
+{"customer_id": "C66", "basket": [{"product_id": "P42", "price": 1684}, {"product_id": "P50", "price": 829}], "date_of_purchase": "2022-05-24 09:24:28.744006"}
+{"customer_id": "C83", "basket": [{"product_id": "P07", "price": 1443}, {"product_id": "P10", "price": 453}], "date_of_purchase": "2022-05-24 00:31:28.744006"}
+{"customer_id": "C84", "basket": [{"product_id": "P27", "price": 707}], "date_of_purchase": "2022-05-24 12:33:28.744006"}
+{"customer_id": "C94", "basket": [{"product_id": "P05", "price": 1730}, {"product_id": "P05", "price": 1498}, {"product_id": "P10", "price": 547}], "date_of_purchase": "2022-05-24 13:21:28.744006"}
+{"customer_id": "C96", "basket": [{"product_id": "P21", "price": 725}], "date_of_purchase": "2022-05-24 15:34:28.744006"}
+{"customer_id": "C98", "basket": [{"product_id": "P14", "price": 593}], "date_of_purchase": "2022-05-24 09:47:28.744006"}
+{"customer_id": "C101", "basket": [{"product_id": "P10", "price": 243}, {"product_id": "P05", "price": 1270}, {"product_id": "P03", "price": 945}], "date_of_purchase": "2022-05-24 14:59:28.744006"}
+{"customer_id": "C102", "basket": [{"product_id": "P40", "price": 437}, {"product_id": "P39", "price": 387}], "date_of_purchase": "2022-05-24 08:01:28.744006"}
+{"customer_id": "C107", "basket": [{"product_id": "P64", "price": 1263}, {"product_id": "P64", "price": 1368}], "date_of_purchase": "2022-05-24 03:55:28.744006"}
+{"customer_id": "C112", "basket": [{"product_id": "P33", "price": 404}, {"product_id": "P28", "price": 1551}, {"product_id": "P29", "price": 760}], "date_of_purchase": "2022-05-24 13:01:28.744006"}
+{"customer_id": "C121", "basket": [{"product_id": "P49", "price": 1039}, {"product_id": "P56", "price": 1037}], "date_of_purchase": "2022-05-24 00:31:28.744006"}
+{"customer_id": "C127", "basket": [{"product_id": "P27", "price": 781}, {"product_id": "P22", "price": 11}], "date_of_purchase": "2022-05-24 12:16:28.744006"}
+{"customer_id": "C129", "basket": [{"product_id": "P34", "price": 1969}, {"product_id": "P22", "price": 439}, {"product_id": "P29", "price": 481}], "date_of_purchase": "2022-05-24 08:46:28.744006"}

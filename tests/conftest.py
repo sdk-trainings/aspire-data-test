@@ -1,5 +1,6 @@
 import shutil
 from tempfile import mkdtemp
+import os
 
 import pytest
 from pyspark.sql import SparkSession
