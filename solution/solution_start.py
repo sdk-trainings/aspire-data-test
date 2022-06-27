@@ -21,7 +21,7 @@ def run_transformations(spark: SparkSession, customers_location: str, products_l
     join products p on tran.product_id = p.product_id
                 """
 
-    spark.sql(sql_query).coalesce(1).write.mode('overwrite').json(output_location)
+    spark.sql(sql_query).write.mode('overwrite').json(output_location)
 
 
 def get_latest_transaction_date(spark: SparkSession):
